@@ -1,9 +1,9 @@
-Tonic
-=====
+Tonic WIP
+=========
 
 Fast and easy audio synthesis in C++. 
 
-Prefer coding to patching? Love clean syntax? Care about performance? That's how we feel too, and why we made Tonic.
+This is a fork, for Linux. Work in progress!
 
 ~~~c++
 //Tonic is a collection of signal generators and processors
@@ -35,14 +35,4 @@ You can browse more synth examples [here](http://github.com/TonicAudio/Tonic/tre
 
 ### Example Projects
 
-Tonic comes with several example projects, found in the "examples" directory. We plan to add more demo projects for Windows and Linux in the future.
-
-- Several example synth patches in `Demo Synths`
-- Standalone example using RTAudio for building a non-interactive synth patch that runs from the command line
-- iOS example for making synths on your iPhone/iPad.
-
-See [ofxTonic](https://github.com/TonicAudio/ofxTonic) for examples in openFrameworks.
-
-##### Development
-
-If you are interested in contributing to Tonic, please visit our [Wiki](https://github.com/TonicAudio/Tonic/wiki) and read the guidelines.
+* Standalone example using RTAudio for building a non-interactive synth patch that runs from the command line
